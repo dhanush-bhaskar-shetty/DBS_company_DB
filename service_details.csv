@@ -1,0 +1,101 @@
+service_id,employee_id,product_id,service_type
+1,368,8,"Warranty Claim"
+2,124,3,"Warranty Claim"
+3,483,8,"Technical Support"
+4,459,1,Consultation
+5,263,3,Consultation
+6,64,5,Consultation
+7,292,4,"Warranty Claim"
+8,315,3,Consultation
+9,229,6,"Warranty Claim"
+10,353,6,Consultation
+11,293,6,"Warranty Claim"
+12,305,3,"Technical Support"
+13,427,2,"Technical Support"
+14,158,2,Consultation
+15,406,7,"Warranty Claim"
+16,176,4,"Billing Inquiry"
+17,8,3,Consultation
+18,32,2,"Warranty Claim"
+19,7,8,"Warranty Claim"
+20,312,8,"Product Repair"
+21,455,2,Consultation
+22,119,3,"Technical Support"
+23,499,8,"Technical Support"
+24,81,5,"Warranty Claim"
+25,349,3,"Warranty Claim"
+26,316,8,"Technical Support"
+27,89,2,"Warranty Claim"
+28,389,7,"Product Repair"
+29,399,8,"Warranty Claim"
+30,392,4,"Technical Support"
+31,398,3,"Warranty Claim"
+32,277,8,"Warranty Claim"
+33,208,1,"Technical Support"
+34,196,3,"Warranty Claim"
+35,421,5,Consultation
+36,461,6,"Billing Inquiry"
+37,92,5,Consultation
+38,223,6,"Warranty Claim"
+39,214,2,"Technical Support"
+40,39,6,"Warranty Claim"
+41,35,1,"Product Repair"
+42,487,4,Consultation
+43,26,4,"Billing Inquiry"
+44,278,2,"Technical Support"
+45,345,4,"Technical Support"
+46,199,8,"Billing Inquiry"
+47,173,5,"Billing Inquiry"
+48,145,7,"Billing Inquiry"
+49,322,1,Consultation
+50,9,2,"Product Repair"
+51,11,7,Consultation
+52,267,8,Consultation
+53,320,7,Consultation
+54,82,5,"Technical Support"
+55,96,1,Consultation
+56,339,5,"Warranty Claim"
+57,479,8,"Technical Support"
+58,419,5,"Technical Support"
+59,135,4,"Technical Support"
+60,200,1,Consultation
+61,246,3,Consultation
+62,388,2,"Billing Inquiry"
+63,325,4,"Warranty Claim"
+64,351,7,"Billing Inquiry"
+65,438,3,"Technical Support"
+66,428,4,"Technical Support"
+67,42,4,"Product Repair"
+68,259,7,"Technical Support"
+69,164,7,Consultation
+70,416,5,"Technical Support"
+71,242,1,"Billing Inquiry"
+72,336,3,"Warranty Claim"
+73,221,2,"Billing Inquiry"
+74,46,4,"Warranty Claim"
+75,201,6,"Technical Support"
+76,381,1,"Technical Support"
+77,301,3,"Warranty Claim"
+78,467,4,"Technical Support"
+79,269,5,"Warranty Claim"
+80,291,8,"Product Repair"
+81,372,3,"Technical Support"
+82,361,7,"Warranty Claim"
+83,132,6,"Billing Inquiry"
+84,233,8,"Technical Support"
+85,94,4,"Billing Inquiry"
+86,170,7,"Product Repair"
+87,218,8,Consultation
+88,275,8,"Warranty Claim"
+89,249,7,"Billing Inquiry"
+90,452,5,"Warranty Claim"
+91,22,2,"Warranty Claim"
+92,454,6,"Warranty Claim"
+93,248,8,"Technical Support"
+94,496,5,"Technical Support"
+95,210,2,"Technical Support"
+96,133,5,"Product Repair"
+97,453,6,"Product Repair"
+98,33,8,"Billing Inquiry"
+99,234,1,"Warranty Claim"
+100,71,4,"Warranty Claim"

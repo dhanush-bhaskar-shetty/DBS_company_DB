@@ -1,0 +1,11 @@
+website_id,company_id,url,website_type,last_updated_date
+1,1,http://cooper.com/,Corporate,2024-07-28
+2,1,http://www.roman-barnes.net/,E-commerce,2023-10-01
+3,2,http://prince.com/,"Marketing Campaign",2024-02-19
+4,3,http://www.burke.com/,"Support Portal",2024-08-15
+5,3,http://www.williams.com/,"Marketing Campaign",2024-12-26
+6,4,http://thomas.com/,"Support Portal",2025-06-30
+7,4,http://cohen.com/,"Support Portal",2023-09-19
+8,5,https://mason-robinson.net/,Blog,2023-07-16
+9,5,http://may.com/,E-commerce,2024-03-15
+10,6,http://page-simmons.com/,"Marketing Campaign",2024-10-06

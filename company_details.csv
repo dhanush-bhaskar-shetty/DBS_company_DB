@@ -1,0 +1,7 @@
+company_id,company_name,industry,company_type,founding_date,ceo_employee_id
+1,"DBS Group 1","Hospital doctor","Core Product-based",2017-04-04,360
+2,"DBS Group 2",Firefighter,Retail,2019-04-10,187
+3,"DBS Group 3","Financial adviser",Retail,2017-01-26,314
+4,"DBS Group 4","Solicitor, Scotland","Financial Services",2015-05-27,362
+5,"DBS Group 5","Community development worker",Education,2012-08-29,91
+6,"DBS Group 6","Water quality scientist","Financial Services",2006-07-30,249
