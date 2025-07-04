@@ -1,0 +1,9 @@
+product_id,company_id,product_name,category,unit_price,launch_date
+1,1,Product_1,Automobile,9725.10,2024-02-07
+2,2,Product_2,Automobile,4396.57,2021-04-10
+3,3,Product_3,Fintech,1038.50,2023-08-17
+4,3,Product_4,"Retail App",5300.48,2021-08-11
+5,4,Product_5,"Healthcare Device",4318.04,2020-09-11
+6,5,Product_6,"Healthcare Device",326.07,2023-05-30
+7,5,Product_7,Fintech,9759.67,2022-03-14
+8,6,Product_8,"Software Suite",3346.17,2025-01-03

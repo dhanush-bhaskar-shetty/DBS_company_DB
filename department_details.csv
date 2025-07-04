@@ -1,0 +1,17 @@
+department_id,company_id,department_name,head_employee_id,main_location_id
+1,1,"Soon Department",488,3
+2,1,"Window Department",130,1
+3,1,"Only Department",31,3
+4,2,"Course Department",388,4
+5,2,"Structure Department",85,5
+6,2,"Claim Department",247,4
+7,3,"Clearly Department",394,7
+8,3,"Small Department",353,8
+9,4,"Father Department",443,11
+10,4,"Ever Department",37,11
+11,4,"My Department",200,10
+12,5,"Number Department",4,12
+13,5,"Piece Department",423,12
+14,6,"Usually Department",358,15
+15,6,"Skill Department",422,15
+16,6,"Stay Department",203,14

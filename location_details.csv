@@ -1,0 +1,16 @@
+location_id,company_id,address_line1,city,state_province,country
+1,1,"0624 Steven Hills Suite 500","North Dustin",Oklahoma,Honduras
+2,1,"13308 Edward Path Suite 336","Port Loganstad",Florida,Malta
+3,1,"67367 Marcus Corner","East Donnamouth",Missouri,Botswana
+4,2,"04590 Shannon Isle","West Davidfort",Nebraska,"Libyan Arab Jamahiriya"
+5,2,"521 Reginald Forks","Port Daniel",Texas,"Bouvet Island (Bouvetoya)"
+6,3,"82647 Michael Locks Suite 387","Port Brendaburgh","South Dakota",Congo
+7,3,"062 Nguyen Track","Lake Bradley",Pennsylvania,"Cape Verde"
+8,3,"20193 Mann Extension","Lake Adam",Michigan,Japan
+9,4,"461 Stephen Flats","New Jesse","South Carolina",Bolivia
+10,4,"10187 Moore Islands Suite 848","South Hannah",Oregon,Armenia
+11,4,"40048 Bill Estate",Melanieland,"New York","Saint Martin"
+12,5,"1713 Nicole Run",Xavierville,"New Mexico","United States Virgin Islands"
+13,6,"22302 Edward Island Apt. 755","West Laurenshire","New Jersey","Puerto Rico"
+14,6,"669 Randy Station Suite 153",Clarkview,Iowa,Tokelau
+15,6,"23458 Heather Points Suite 853",Lozanoborough,"South Dakota","Heard Island and McDonald Islands"
