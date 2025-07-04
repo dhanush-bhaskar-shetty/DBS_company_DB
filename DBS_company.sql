@@ -66,7 +66,7 @@ CREATE TABLE ServiceRecords (
     service_id INT PRIMARY KEY AUTO_INCREMENT,
     employee_id INT NOT NULL,
     product_id INT,
-    service_type VARCHAR(50) NOT NULL,  -- Removed ENUM
+    service_type VARCHAR(50) NOT NULL,  
     FOREIGN KEY (employee_id) REFERENCES Employees(employee_id)
         ON DELETE CASCADE ON UPDATE CASCADE,
     FOREIGN KEY (product_id) REFERENCES Products(product_id)
