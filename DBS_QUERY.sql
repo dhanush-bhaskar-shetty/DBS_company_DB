@@ -1,4 +1,5 @@
 -- SQLBook: Code
+
 -- accessing all the rows to find total number of data elements in each table;
 SELECT * FROM companies;
 SELECT * FROM departments;
